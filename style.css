@@ -1,0 +1,58 @@
+body
+{
+  color: white;
+  background-image: linear-gradient(#ffff5b,white,rgb(255, 255, 98),white,#ffff69,white,rgb(255, 255, 110),white);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading{
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: cursive;
+  margin-bottom: 30px;
+}
+#survey{
+  font-family: cursive;
+}
+.btn1{
+  border-radius: 5px;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: cursive !important; 
+}
+label{
+ font-size: 25px;
+ color: black;
+ font-weight: bold;
+ font-family: cursive;
+}
+.heading{
+  background-color: #ff4f199f;
+  border-radius: 6px;
+  border: 2px black ridge;
+}
+#survey{
+  font-weight: bolder;
+  font-family: cursive;
+  color: rgb(57, 204, 57);
+}
